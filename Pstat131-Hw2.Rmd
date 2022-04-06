@@ -1,0 +1,20 @@
+---
+title: "Pstat131-Hw2"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+  pdf_document:
+    toc: true
+date: '2022-04-06'
+---
+
+# Pstat 131 Hw 2
+
+### Noe Arambula ID: 3561131
+
+### 4/5/22
+
+```{r}
+
+```
