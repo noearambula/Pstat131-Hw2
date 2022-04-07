@@ -1,12 +1,10 @@
 ---
-title: "Pstat131-Hw2"
 output:
+  pdf_document:
+    toc: true
   html_document:
     toc: true
     toc_float: true
-  pdf_document:
-    toc: true
-date: '2022-04-06'
 ---
 
 # Pstat 131 Hw 2
